@@ -1,6 +1,6 @@
 # Oral microbiota alterations in early-stage Parkinson’s disease
 
-Analysis notebooks accompanying **Oral microbiota alterations precede neuropathological changes in an alpha-synuclein model and identify candidate biomarkers of early-stage Parkinson’s disease** by Soto Linan, Ferguson, and colleagues. Figure references follow the October 22, 2026 manuscript.
+Analysis notebooks accompanying **Oral microbiota alterations precede neuropathological changes in an alpha-synuclein model and identify candidate biomarkers of early-stage Parkinson’s disease**.
 
 ## Run the notebooks
 
